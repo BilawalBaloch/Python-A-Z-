@@ -7,7 +7,7 @@ Welcome to **Python-A-Z**, a comprehensive resource designed to help you learn P
 
 ## What is Python-A-Z? 🤔
 
-This repository contains a collection of code examples, tutorials, and exercises that cover all the fundamental concepts of Python programming. We'll start with the basics and progressively move to more advanced topics, making sure you have a solid understanding of each concept before moving on. The code is presented in a Jupyter Notebook format (`pythonstart.ipynb`), which is perfect for interactive learning.
+This repository contains a collection of code examples, tutorials, and exercises that cover all the fundamental concepts of Python programming. any one who wants to start from zero and wanted to be a hero then this for him. We'll start with the basics and progressively move to more advanced topics, making sure you have a solid understanding of each concept before moving on. The code is presented in a Jupyter Notebook format (`pythonstart.ipynb`), which is perfect for interactive learning.
 
 ### Why Python? 🌟
 
