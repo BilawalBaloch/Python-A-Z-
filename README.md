@@ -39,7 +39,7 @@ Follow these simple steps to start your Python journey:
 
     This command creates a folder named `Python-A-Z-` on your system.
 
-2.  **Install Jupyter Notebook**: If you don't have Jupyter Notebook installed, you can get it easily using `pip`, the Python package installer. Just run this command:
+2.  *Install Jupyter Notebook**: If you don't have Jupyter Notebook installed, you can get it easily using `pip`, the Python package installer. Just run this command:
 
     ```bash
     pip install jupyter
@@ -161,6 +161,8 @@ Functions are blocks of reusable code that perform a specific task. They are def
 def greet(name):
     """This function prints a greeting."""
     print(f"Hello, {name}!")
+
+Data Types are one the most important concepts . if yu really want to work on Python then you should be very clear about data types .
 
 greet("Charlie")
 ```
